@@ -1,0 +1,18 @@
+#image {
+    display: block;
+    width: 150px;
+    height: 200px;
+    padding: 10px;
+
+  }
+  #flag {
+    display: inline;
+    width: 50px;
+    position:absolute;
+    padding-left: 5px;
+
+  }
+  div {
+display:block;
+margin:0px;
+  }
